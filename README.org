@@ -1,0 +1,6 @@
+* Chris's emacs profile
+** How did I learn emacs
+[[https://www.youtube.com/watch?v=49kBWM3RQQ8&list=PL9KxKa8NpFxIcNQa9js7dQQIHc81b0-Xg][YouTube Using Emacs]]
+** Emacs info 
+
+C-h i
