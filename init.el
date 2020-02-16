@@ -26,6 +26,9 @@
 ;; undo-tree
 (require 'init-undo-tree)
 
+;; emoji
+(require 'init-emojify)
+
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
