@@ -20,16 +20,20 @@
 (require 'init-complete)
 
 ;; project
-(require 'init-project)
+;;(require 'init-project)
 ;; Zeal point view
 ;;(require 'zeal-at-point)
 ;; undo-tree
-(require 'init-undo-tree)
+;;(require 'init-undo-tree)
 
 ;; emoji
 (require 'init-emojify)
-
-
+;; Yaml Mode
+(require 'yaml-mode)
+;; Beancount
+(require 'beancount)
+;; HTML export
+(require 'htmlize)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

@@ -1,7 +1,7 @@
 ;; fullscreen
 (setq initial-frame-alist (quote ((fullscreen . maximized))))
 ;; init message
-;;(setq inhibit-startup-message t)
+(setq inhibit-startup-message t)
 ;; tool-bar-mode
 (tool-bar-mode -1)
 ;; scroll-bar
