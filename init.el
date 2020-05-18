@@ -18,7 +18,8 @@
 (require 'init-org)
 ;; Load Audo complete
 (require 'init-complete)
-
+;; Load Racket Mode
+(require 'init-racket)
 ;; project
 ;;(require 'init-project)
 ;; Zeal point view

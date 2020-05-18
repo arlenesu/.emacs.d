@@ -79,7 +79,6 @@
 ;; User quotes: "You sir, are a sick, sick, _sick_ person. :)"
 ;;                  -- Bill Perry, author of Emacs/W3
 
-
 ;;; Code:
 
 (require 'cl)
